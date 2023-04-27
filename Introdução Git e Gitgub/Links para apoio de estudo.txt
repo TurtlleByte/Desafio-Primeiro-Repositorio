@@ -1,0 +1,3 @@
+https://www.atlassian.com/br/git/glossary
+
+comandos basicos do git explicados
